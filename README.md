@@ -1,6 +1,6 @@
-# 🚀 Customer Churn Prediction using Machine Learning
+# Customer Churn Prediction using Machine Learning
 
-## 📌 Project Overview
+## Project Overview
 
 This project is developed as **Task 1** for the **Alfido Tech AI & Machine Learning Internship**. The objective is to build and evaluate a supervised machine learning model that predicts whether a customer is likely to churn based on demographic and service-related information.
 
@@ -8,7 +8,7 @@ The project demonstrates the complete machine learning pipeline, including data 
 
 ---
 
-## 🎯 Objective
+## Objective
 
 * Build a supervised classification model for customer churn prediction.
 * Compare multiple machine learning algorithms.
@@ -17,7 +17,7 @@ The project demonstrates the complete machine learning pipeline, including data 
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 **Dataset:** Telco Customer Churn Dataset
 
@@ -33,7 +33,7 @@ The dataset contains customer information such as:
 
 ---
 
-## 🛠️ Technologies Used
+##Technologies Used
 
 * Python 3
 * Google Colab
@@ -46,7 +46,7 @@ The dataset contains customer information such as:
 
 ---
 
-## ⚙️ Machine Learning Workflow
+## Machine Learning Workflow
 
 ### 1. Data Preprocessing
 
@@ -82,7 +82,7 @@ The dataset contains customer information such as:
 
 ---
 
-## 📊 Project Structure
+##Project Structure
 
 ```text
 Customer-Churn-Prediction/
@@ -95,7 +95,7 @@ Customer-Churn-Prediction/
 
 ---
 
-## 📈 Results
+##Results
 
 Both machine learning models performed well in predicting customer churn.
 
@@ -116,7 +116,7 @@ Random Forest was selected as the final model because it achieved the best overa
 
 ---
 
-## 📚 Learning Outcomes
+##Learning Outcomes
 
 * Applied data preprocessing techniques
 * Built supervised classification models
@@ -127,7 +127,7 @@ Random Forest was selected as the final model because it achieved the best overa
 
 ---
 
-## ✅ Internship Requirements Covered
+## Internship Requirements Covered
 
 * ✔ Data Preprocessing
 * ✔ Feature Engineering
@@ -147,7 +147,7 @@ Random Forest was selected as the final model because it achieved the best overa
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * Hyperparameter tuning using GridSearchCV
 * XGBoost and LightGBM implementation
@@ -157,7 +157,7 @@ Random Forest was selected as the final model because it achieved the best overa
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **JEEVITH HM**
 

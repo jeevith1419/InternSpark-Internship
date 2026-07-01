@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is developed as **Task 1** for the **Alfido Tech AI & Machine Learning Internship**. The objective is to build and evaluate a supervised machine learning model that predicts whether a customer is likely to churn based on demographic and service-related information.
+This project is developed as **Task 1** for the ** AI & Machine Learning Internship**. The objective is to build and evaluate a supervised machine learning model that predicts whether a customer is likely to churn based on demographic and service-related information.
 
 The project demonstrates the complete machine learning pipeline, including data preprocessing, feature engineering, model training, evaluation, visualization, and model comparison.
 
